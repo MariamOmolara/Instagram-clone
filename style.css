@@ -100,11 +100,14 @@ nav > .nav-container .nav-content > div a img {
   flex-direction: column;
   align-items: center;
   position: relative;
+  overflow-y: scroll;
+ 
+
 }
 .main-area-content {
     background-color: white;
   margin-top: 20px;
-  width: 55%;
+  width: 60%;
   display: flex;
   flex-direction: column;
   border: 1px solid #b7b7b7;
